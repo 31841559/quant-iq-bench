@@ -77,7 +77,7 @@ class Client:
         if not self.model:
             raise SystemExit("缺少模型名：设置环境变量 BENCH_MODEL，或传 model=")
         self.api_key = api_key if api_key is not None else os.environ.get("BENCH_API_KEY", "")
-        self.timeout = timeout
+        self.timeout = int(os.environ.get("BENCH_TIMEOUT") or timeout)
         self.transport = transport
         self.system = system
 

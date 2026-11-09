@@ -53,6 +53,8 @@ def main() -> None:
     ap.add_argument("--workers", type=int, default=1)
     ap.add_argument("--limit", type=int, default=0, help="只跑前 N 题（冒烟用）")
     ap.add_argument("--retries", type=int, default=2)
+    ap.add_argument("--timeout", type=int, default=300,
+                    help="单次请求超时秒数。设太大时，收不住思考的题会长时间阻塞")
     args = ap.parse_args()
 
     items = json.load(open(args.questions, encoding="utf-8"))
@@ -63,7 +65,7 @@ def main() -> None:
     todo = [x for x in items if x["id"] not in done]
     print(f"共 {len(items)} 题，已完成 {len(items) - len(todo)}，本轮待跑 {len(todo)}")
 
-    client = Client()
+    client = Client(timeout=args.timeout)
     print(f"模型 {client.model} @ {client.url}  thinking={args.thinking}\n")
 
     def work(item: dict) -> None:
