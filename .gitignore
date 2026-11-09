@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# 跑测中间产物：断点续跑时有用，不适合入库
+*.tmp
+runs/

@@ -1,0 +1,702 @@
+[
+ {
+  "id": "c001",
+  "cat": "charops",
+  "std": "cfgehacfgeha",
+  "got": "cfgehacfgeha",
+  "ok": true
+ },
+ {
+  "id": "c002",
+  "cat": "charops",
+  "std": "CHHFFEC",
+  "got": "CHHFFEC",
+  "ok": true
+ },
+ {
+  "id": "c003",
+  "cat": "charops",
+  "std": "EDzCHGHAHCBDAAD",
+  "got": "EDzCHGHAHCBDAAD",
+  "ok": true
+ },
+ {
+  "id": "c004",
+  "cat": "charops",
+  "std": "EDGFGHEA",
+  "got": "EDGFGHEA",
+  "ok": true
+ },
+ {
+  "id": "c005",
+  "cat": "charops",
+  "std": "gbdfgd",
+  "got": "gbdfgd",
+  "ok": true
+ },
+ {
+  "id": "c006",
+  "cat": "charops",
+  "std": "FFHDDDDZDHGHCFHFFHDDDDZDHGHCFH",
+  "got": "FFHDDDDZDHGHAFHFFHDDDDZDHGHAFH",
+  "ok": false
+ },
+ {
+  "id": "c007",
+  "cat": "charops",
+  "std": "dhgagdfdhgagdf",
+  "got": "dhgagdfdhgagdf",
+  "ok": true
+ },
+ {
+  "id": "c008",
+  "cat": "charops",
+  "std": "DAGBCCBDCDFFEDBH",
+  "got": "DAGBCCBDCDFFEDBH",
+  "ok": true
+ },
+ {
+  "id": "c009",
+  "cat": "charops",
+  "std": "bfecaeabhhgeyhbfecaeabhhgeyh",
+  "got": "bfecaeabhhgeyhbfecaeabhhgeyh",
+  "ok": true
+ },
+ {
+  "id": "c010",
+  "cat": "charops",
+  "std": "gggddgggdd",
+  "got": "gggddgggdd",
+  "ok": true
+ },
+ {
+  "id": "c011",
+  "cat": "charops",
+  "std": "FAAFDDA",
+  "got": "FAAFDD",
+  "ok": false
+ },
+ {
+  "id": "c012",
+  "cat": "charops",
+  "std": "EBAYFCA",
+  "got": "EBAYFCA",
+  "ok": true
+ },
+ {
+  "id": "c013",
+  "cat": "charops",
+  "std": "ACDGEHHF",
+  "got": "ACDGEHHF",
+  "ok": true
+ },
+ {
+  "id": "c014",
+  "cat": "charops",
+  "std": "ccgegfcfyg",
+  "got": "ccgegfcfyg",
+  "ok": true
+ },
+ {
+  "id": "c015",
+  "cat": "charops",
+  "std": "CGHBBEBCFCGH",
+  "got": "CGHBBEBCFCGH",
+  "ok": true
+ },
+ {
+  "id": "c016",
+  "cat": "charops",
+  "std": "fabhghagcdgdghcee",
+  "got": "fabhghagcdgdghcee",
+  "ok": true
+ },
+ {
+  "id": "c017",
+  "cat": "charops",
+  "std": "hxfgehcb",
+  "got": "hxfgehcb",
+  "ok": true
+ },
+ {
+  "id": "c018",
+  "cat": "charops",
+  "std": "GHAEFCBGDGHAEFCBGD",
+  "got": "GHAEFCBGDGHAEFCBGD",
+  "ok": true
+ },
+ {
+  "id": "c019",
+  "cat": "charops",
+  "std": "EDAEDBBEBBH",
+  "got": "EDAEDBBEBFBH",
+  "ok": false
+ },
+ {
+  "id": "c020",
+  "cat": "charops",
+  "std": "ghffbyeegheebfh",
+  "got": "ghffbyeegheebfh",
+  "ok": true
+ },
+ {
+  "id": "c021",
+  "cat": "charops",
+  "std": "FBEFHAFYGEHGFEDH",
+  "got": "FBEFHAFYGEHGFEDH",
+  "ok": true
+ },
+ {
+  "id": "c022",
+  "cat": "charops",
+  "std": "EGCBxABAAHCCBGDAEGCBABAAHCCBGDA",
+  "got": "EGCBxABAAHCCBGDAEGCBABAAHCCBGDA",
+  "ok": true
+ },
+ {
+  "id": "c023",
+  "cat": "charops",
+  "std": "AGDAADBHHAC",
+  "got": "AGDAADBHHAC",
+  "ok": true
+ },
+ {
+  "id": "c024",
+  "cat": "charops",
+  "std": "EEFEFBBFCBGAC",
+  "got": "EEFEFBBFCBGAC",
+  "ok": true
+ },
+ {
+  "id": "c025",
+  "cat": "charops",
+  "std": "fghfdddchggggaadgefghfdddchggggaadge",
+  "got": "fghfdddchggggaadgefghfdddchggggaadge",
+  "ok": true
+ },
+ {
+  "id": "c026",
+  "cat": "charops",
+  "std": "dacbdbhaaabda",
+  "got": "dacbdbhaaabda",
+  "ok": true
+ },
+ {
+  "id": "c027",
+  "cat": "charops",
+  "std": "ddxcehhcbabdcddxcehhcbdabdc",
+  "got": "ddxcehhcbabdcddxcehhcbdabdc",
+  "ok": true
+ },
+ {
+  "id": "c028",
+  "cat": "charops",
+  "std": "aggdcgedaddgfcdbaggdcgedxaddgfcdb",
+  "got": "aggdcgedaddgfcdbaggdcgedxaddgfcdb",
+  "ok": true
+ },
+ {
+  "id": "c029",
+  "cat": "charops",
+  "std": "cgcdgfcbdahcdh",
+  "got": "cgcdgfcbdahcdh",
+  "ok": true
+ },
+ {
+  "id": "c030",
+  "cat": "charops",
+  "std": "ccbffbefbaybhabdccbfbfbefbaybhabd",
+  "got": "ccbffbefbaybhabdccbfbfbefbaybhabd",
+  "ok": true
+ },
+ {
+  "id": "c031",
+  "cat": "charops",
+  "std": "AAACGH",
+  "got": "AAACGH",
+  "ok": true
+ },
+ {
+  "id": "c032",
+  "cat": "charops",
+  "std": "cfhbabfdbbafdghcfhbabfdbbafdgh",
+  "got": "cfhbabfdbbafdghcfhbabfdbbafdgh",
+  "ok": true
+ },
+ {
+  "id": "c033",
+  "cat": "charops",
+  "std": "ecgegxda",
+  "got": "ecgegxda",
+  "ok": true
+ },
+ {
+  "id": "c034",
+  "cat": "charops",
+  "std": "dezha",
+  "got": "dezha",
+  "ok": true
+ },
+ {
+  "id": "c035",
+  "cat": "charops",
+  "std": "AHFFEG",
+  "got": "dhzffeghbbfbddh",
+  "ok": false
+ },
+ {
+  "id": "c036",
+  "cat": "charops",
+  "std": "DEHABCGCAFEDCGEAADDEHABCGCAFEDCGEAAD",
+  "got": "DEHABCGCAFEDCGEAADDEHABCGCAFEDCGEAAD",
+  "ok": true
+ },
+ {
+  "id": "c037",
+  "cat": "charops",
+  "std": "hbdcheaddabedcgh",
+  "got": "hbdcheaddabedcgh",
+  "ok": true
+ },
+ {
+  "id": "c038",
+  "cat": "charops",
+  "std": "bdccdcah",
+  "got": "bdccdcah",
+  "ok": true
+ },
+ {
+  "id": "c039",
+  "cat": "charops",
+  "std": "cbeyghfcgb",
+  "got": "cbeyghfcgb",
+  "ok": true
+ },
+ {
+  "id": "c040",
+  "cat": "charops",
+  "std": "AHBFBGEECHCDAHBFBGEECAHCD",
+  "got": "AHBFBGEECHCDAHBFBGEECAHCD",
+  "ok": true
+ },
+ {
+  "id": "c041",
+  "cat": "charops",
+  "std": "gdbcgdaa",
+  "got": "gdbcgdaa",
+  "ok": true
+ },
+ {
+  "id": "c042",
+  "cat": "charops",
+  "std": "bdhagh",
+  "got": "bdhagh",
+  "ok": true
+ },
+ {
+  "id": "c043",
+  "cat": "charops",
+  "std": "BHCCHDAHz",
+  "got": "BHCCHDHAz",
+  "ok": false
+ },
+ {
+  "id": "c044",
+  "cat": "charops",
+  "std": "dfahbh",
+  "got": "dfahbh",
+  "ok": true
+ },
+ {
+  "id": "c045",
+  "cat": "charops",
+  "std": "bgcgbebagbgahcbbecgbgbagbgahcb",
+  "got": "bgcgbebagbgahcbbgcgbebagbgahcb",
+  "ok": false
+ },
+ {
+  "id": "c046",
+  "cat": "charops",
+  "std": "gheaggh",
+  "got": "gheaggh",
+  "ok": true
+ },
+ {
+  "id": "c047",
+  "cat": "charops",
+  "std": "ACHFFGGFAHGCGFHEEACHFFGGFAHGCGFHEE",
+  "got": "ACHFFGGFAHGCGFHEEACHFFGGFAHGCGFHEE",
+  "ok": true
+ },
+ {
+  "id": "c048",
+  "cat": "charops",
+  "std": "FAAFHyBDFGBFAEGG",
+  "got": "FAAFHyBDFGBFAEGG",
+  "ok": true
+ },
+ {
+  "id": "c049",
+  "cat": "charops",
+  "std": "ddeabgegc",
+  "got": "ddeabgegc",
+  "ok": true
+ },
+ {
+  "id": "c050",
+  "cat": "charops",
+  "std": "DCCXEHAFFGDCCXEHAFFG",
+  "got": "DCCXEHAFFGDCCXEHAFFG",
+  "ok": true
+ },
+ {
+  "id": "a001",
+  "cat": "arith",
+  "std": "786.72",
+  "got": "786.72",
+  "ok": true
+ },
+ {
+  "id": "a002",
+  "cat": "arith",
+  "std": "2418.64",
+  "got": "2418.64",
+  "ok": true
+ },
+ {
+  "id": "a003",
+  "cat": "arith",
+  "std": "660.79",
+  "got": "660.79",
+  "ok": true
+ },
+ {
+  "id": "a004",
+  "cat": "arith",
+  "std": "426.54",
+  "got": "426.54",
+  "ok": true
+ },
+ {
+  "id": "a005",
+  "cat": "arith",
+  "std": "4640.02",
+  "got": "4640.02",
+  "ok": true
+ },
+ {
+  "id": "a006",
+  "cat": "arith",
+  "std": "2827.99",
+  "got": "2827.99",
+  "ok": true
+ },
+ {
+  "id": "a007",
+  "cat": "arith",
+  "std": "509.07",
+  "got": "509.07",
+  "ok": true
+ },
+ {
+  "id": "a008",
+  "cat": "arith",
+  "std": "64.84",
+  "got": "64.84",
+  "ok": true
+ },
+ {
+  "id": "a009",
+  "cat": "arith",
+  "std": "72.80",
+  "got": "72.80",
+  "ok": true
+ },
+ {
+  "id": "a010",
+  "cat": "arith",
+  "std": "2682.92",
+  "got": "2682.92",
+  "ok": true
+ },
+ {
+  "id": "a011",
+  "cat": "arith",
+  "std": "271.25",
+  "got": "271.25",
+  "ok": true
+ },
+ {
+  "id": "a012",
+  "cat": "arith",
+  "std": "1580.02",
+  "got": "1580.02",
+  "ok": true
+ },
+ {
+  "id": "a013",
+  "cat": "arith",
+  "std": "77.33",
+  "got": "77.33",
+  "ok": true
+ },
+ {
+  "id": "a014",
+  "cat": "arith",
+  "std": "3143.66",
+  "got": "3143.66",
+  "ok": true
+ },
+ {
+  "id": "a015",
+  "cat": "arith",
+  "std": "785.75",
+  "got": "785.75",
+  "ok": true
+ },
+ {
+  "id": "a016",
+  "cat": "arith",
+  "std": "944.36",
+  "got": "944.36",
+  "ok": true
+ },
+ {
+  "id": "a017",
+  "cat": "arith",
+  "std": "131.60",
+  "got": "131.60",
+  "ok": true
+ },
+ {
+  "id": "a018",
+  "cat": "arith",
+  "std": "339.39",
+  "got": "339.39",
+  "ok": true
+ },
+ {
+  "id": "a019",
+  "cat": "arith",
+  "std": "864.98",
+  "got": "864.98",
+  "ok": true
+ },
+ {
+  "id": "a020",
+  "cat": "arith",
+  "std": "334.00",
+  "got": "334.00",
+  "ok": true
+ },
+ {
+  "id": "a021",
+  "cat": "arith",
+  "std": "323.76",
+  "got": "323.76",
+  "ok": true
+ },
+ {
+  "id": "a022",
+  "cat": "arith",
+  "std": "79.54",
+  "got": "79.54",
+  "ok": true
+ },
+ {
+  "id": "a023",
+  "cat": "arith",
+  "std": "50.92",
+  "got": "50.92",
+  "ok": true
+ },
+ {
+  "id": "a024",
+  "cat": "arith",
+  "std": "838.88",
+  "got": "838.88",
+  "ok": true
+ },
+ {
+  "id": "a025",
+  "cat": "arith",
+  "std": "67.65",
+  "got": "67.65",
+  "ok": true
+ },
+ {
+  "id": "i001",
+  "cat": "instr",
+  "std": "地基植种啡咖粒小南云",
+  "got": "地基植种啡咖粒小南云",
+  "ok": true
+ },
+ {
+  "id": "i002",
+  "cat": "instr",
+  "std": "",
+  "got": "广西沃柑果肉细嫩汁多甜酸适度",
+  "ok": true
+ },
+ {
+  "id": "i003",
+  "cat": "instr",
+  "std": "",
+  "got": "[{\"name\":\"杭州\",\"code\":\"HZ\"},{\"name\":\"宁波\",\"code\":\"NB\"},{\"name\":\"温州\",\"code\":\"WZ\"}]",
+  "ok": true
+ },
+ {
+  "id": "i004",
+  "cat": "instr",
+  "std": "",
+  "got": "ORANGE, LEMON, LIME",
+  "ok": true
+ },
+ {
+  "id": "i005",
+  "cat": "instr",
+  "std": "",
+  "got": "沃柑酸甜适中酸而不涩果香浓",
+  "ok": true
+ },
+ {
+  "id": "i006",
+  "cat": "instr",
+  "std": "110",
+  "got": "110",
+  "ok": true
+ },
+ {
+  "id": "i007",
+  "cat": "instr",
+  "std": "海南\n广东\n广西",
+  "got": "海南\n广东\n广西",
+  "ok": true
+ },
+ {
+  "id": "i008",
+  "cat": "instr",
+  "std": "",
+  "got": "冷链让果品采摘后迅速降温，抑制呼吸与微生物繁殖，从而延长保鲜期并减少损耗。",
+  "ok": true
+ },
+ {
+  "id": "i009",
+  "cat": "instr",
+  "std": "地基植种柑沃西广",
+  "got": "地基植种柑沃西广",
+  "ok": true
+ },
+ {
+  "id": "i010",
+  "cat": "instr",
+  "std": "",
+  "got": "云南小粒咖啡香气浓郁回甘很持久",
+  "ok": true
+ },
+ {
+  "id": "i011",
+  "cat": "instr",
+  "std": "",
+  "got": "[{\"name\":\"海口\",\"code\":\"HK\"},{\"name\":\"三亚\",\"code\":\"SY\"},{\"name\":\"儋州\",\"code\":\"DZ\"}]",
+  "ok": true
+ },
+ {
+  "id": "i012",
+  "cat": "instr",
+  "std": "",
+  "got": "MANGO, PAPAYA, BANANA",
+  "ok": true
+ },
+ {
+  "id": "i013",
+  "cat": "instr",
+  "std": "",
+  "got": "小粒咖啡入口微酸回甘酸感清爽持久",
+  "ok": true
+ },
+ {
+  "id": "i014",
+  "cat": "instr",
+  "std": "118",
+  "got": "118",
+  "ok": true
+ },
+ {
+  "id": "i015",
+  "cat": "instr",
+  "std": "湖南\n湖北\n江西",
+  "got": "湖南\n湖北\n江西",
+  "ok": true
+ },
+ {
+  "id": "i016",
+  "cat": "instr",
+  "std": "",
+  "got": "冷链让果品采摘后迅速降温，抑制呼吸与微生物繁殖，从而延长保鲜期并减少损耗。",
+  "ok": true
+ },
+ {
+  "id": "i017",
+  "cat": "instr",
+  "std": "心中拣分橙脐南赣",
+  "got": "心中拣分橙脐南赣",
+  "ok": true
+ },
+ {
+  "id": "i018",
+  "cat": "instr",
+  "std": "",
+  "got": "广西沃柑皮薄肉厚汁多且味甜",
+  "ok": true
+ },
+ {
+  "id": "i019",
+  "cat": "instr",
+  "std": "",
+  "got": "[{\"name\":\"杭州\",\"code\":\"HZ\"},{\"name\":\"宁波\",\"code\":\"NB\"},{\"name\":\"温州\",\"code\":\"WZ\"}]",
+  "ok": true
+ },
+ {
+  "id": "i020",
+  "cat": "instr",
+  "std": "",
+  "got": "PEACH, PLUM, CHERRY",
+  "ok": true
+ },
+ {
+  "id": "i021",
+  "cat": "instr",
+  "std": "",
+  "got": "沃柑酸甜适中酸而不涩果香浓",
+  "ok": true
+ },
+ {
+  "id": "i022",
+  "cat": "instr",
+  "std": "75",
+  "got": "75",
+  "ok": true
+ },
+ {
+  "id": "i023",
+  "cat": "instr",
+  "std": "湖南\n湖北\n江西",
+  "got": "湖南\n湖北\n江西",
+  "ok": true
+ },
+ {
+  "id": "i024",
+  "cat": "instr",
+  "std": "",
+  "got": "冷链让果品采摘后迅速降温，抑制呼吸与微生物繁殖，从而延长保鲜期并减少损耗。",
+  "ok": true
+ },
+ {
+  "id": "i025",
+  "cat": "instr",
+  "std": "地基植种橙脐南赣",
+  "got": "地基植种橙脐南赣",
+  "ok": true
+ }
+]

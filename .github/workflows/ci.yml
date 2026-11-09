@@ -1,0 +1,43 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 尺子先校准：判分器自检
+      - name: 判分器自检
+        run: python -m bench.scoring --self-check
+
+      # 三个生成器都要能独立跑通
+      - name: 生成 charops
+        run: python -m bench.gen --suite charops --n 30 --seed 1 --out /tmp/c.json
+
+      - name: 生成 arith
+        run: python -m bench.gen --suite arith --n 30 --seed 1 --out /tmp/a.json
+
+      - name: 生成 constraint
+        run: python -m bench.gen --suite constraint --n 30 --seed 1 --out /tmp/i.json
+
+      # 生成结果必须自洽：答案非空、题型正确、id 唯一
+      - name: 校验题库结构
+        run: |
+          python - <<'EOF'
+          import json
+          for p in ("/tmp/c.json", "/tmp/a.json", "/tmp/i.json"):
+              d = json.load(open(p))
+              ids = [x["id"] for x in d]
+              assert len(ids) == len(set(ids)), f"{p} id 重复"
+              for x in d:
+                  assert x["q"].strip() and x["cat"], f"{p} 题目为空"
+                  assert str(x["answer"]) != "" or x.get("check"), f"{p} 缺答案也缺校验"
+          print("题库结构校验通过")
+          EOF
